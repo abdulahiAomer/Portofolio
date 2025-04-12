@@ -83,10 +83,8 @@
 
   main {
     display: flex;
-    flex-direction: row-reverse;
     margin: 100px;
     gap: 600px;
-    flex-wrap: wrap;
   }
 
   .image img {
